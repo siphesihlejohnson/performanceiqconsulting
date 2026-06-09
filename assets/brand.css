@@ -1,13 +1,13 @@
 /* ============================================================
-   Performance IQ — Brand foundations
+   Performance IQ - Brand foundations
    Shared tokens, type, and primitives across all deliverables
    ============================================================ */
 
-@import url('https://fonts.googleapis.com/css2?family=Source+Serif+4:opsz,wght@8..60,400;8..60,500;8..60,600;8..60,700&family=Libre+Franklin:wght@400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Source+Serif+4:opsz,wght@8..60,400;8..60,500;8..60,600;8..60,700&family=Lato:wght@400;700&display=swap');
 
 :root {
   /* ---- Core palette ---- */
-  --violet:      #5A33E6;   /* Performance Violet — primary */
+  --violet:      #5A33E6;   /* Performance Violet - primary */
   --violet-700:  #4523B8;   /* pressed / depth */
   --violet-300:  #B9A7F4;   /* muted */
   --violet-100:  #ECE7FD;   /* tint surface */
@@ -15,21 +15,21 @@
 
   --ink:     #111016;   /* near-black, slightly cool */
   --ink-700: #3A3A44;   /* strong body */
-  --ink-500: #6B6B78;   /* muted text */
-  --ink-300: #A7A7B3;   /* captions */
+  --ink-500: #4A4958;   /* muted text — 7.5:1 on paper */
+  --ink-300: #5E5E6C;   /* captions — 5.7:1 on paper (was 2.1:1, hard fail) */
 
-  --paper:   #FFFFFF;
-  --paper-2: #F8F8FB;   /* off-white surface */
-  --paper-3: #F1F1F6;   /* deeper surface */
-  --line:    #E6E6EC;   /* hairlines */
-  --line-2:  #D7D7E0;
+  --paper:   #F5F4F0;   /* warm off-white — eliminates glare */
+  --paper-2: #ECEAE5;   /* section surface */
+  --paper-3: #E0DED8;   /* deeper surface */
+  --line:    #CCCAC3;   /* hairlines */
+  --line-2:  #BCBAB2;
 
   --signal:  #18A971;   /* functional "pass / verified" green */
 
   /* ---- Type ---- */
   --piq-display: 'Source Serif 4', Georgia, 'Times New Roman', serif;
-  --piq-body:    'Libre Franklin', system-ui, sans-serif;
-  --piq-mono:    'Libre Franklin', system-ui, sans-serif;
+  --piq-body:    'Lato', system-ui, sans-serif;
+  --piq-mono:    'Lato', system-ui, sans-serif;
   --piq-code:    ui-monospace, 'SF Mono', Menlo, Consolas, monospace;
 
   /* ---- Geometry ---- */
@@ -40,6 +40,13 @@
 }
 
 * { box-sizing: border-box; }
+
+:focus-visible {
+  outline: 2px solid var(--violet);
+  outline-offset: 3px;
+  border-radius: 3px;
+}
+:focus:not(:focus-visible) { outline: none; }
 
 html { -webkit-font-smoothing: antialiased; text-rendering: optimizeLegibility; }
 
@@ -79,14 +86,14 @@ p { margin: 0; text-wrap: pretty; }
 
 .btn {
   font-family: var(--piq-mono);
-  font-size: 13px;
-  font-weight: 500;
-  letter-spacing: 0.04em;
-  text-transform: uppercase;
+  font-size: 15px;
+  font-weight: 700;
+  letter-spacing: 0.02em;
+  text-transform: none;
   display: inline-flex;
   align-items: center;
   gap: 10px;
-  padding: 14px 22px;
+  padding: 15px 26px;
   border-radius: 999px;
   border: 1px solid transparent;
   text-decoration: none;
@@ -94,8 +101,8 @@ p { margin: 0; text-wrap: pretty; }
   transition: transform .18s ease, background .18s ease, color .18s ease, border-color .18s ease;
 }
 .btn:hover { transform: translateY(-1px); }
-.btn-primary { background: var(--ink); color: #fff; }
-.btn-primary:hover { background: var(--violet); }
+.btn-primary { background: var(--violet); color: #fff; }
+.btn-primary:hover { background: var(--violet-700); color: #fff; }
 .btn-ghost { background: transparent; color: var(--ink); border-color: var(--line-2); }
 .btn-ghost:hover { border-color: var(--ink); }
 
