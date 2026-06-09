@@ -1,6 +1,6 @@
 # Performance IQ Consulting
 
-Official website for **Performance IQ Consulting** — quality engineering, test automation, IT & skills development.
+Official website for **Performance IQ Consulting** - quality engineering, test automation, IT & skills development.
 
 > **Quality, measured.**
 
