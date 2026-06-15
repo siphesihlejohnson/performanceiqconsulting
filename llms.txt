@@ -4,7 +4,7 @@
 
 ## About
 
-Performance IQ was founded by Siphesihle Johnson — an operations and learning & development leader with experience spanning workforce enablement, training systems, instructional design, LMS management, and skills development strategy. Siphesihle has held senior L&D and operations roles at AnyVan and Capita, led the development of digital learning ecosystems for 200+ team members, and is also the founder of PaidNow, a real-time pay infrastructure platform. She is currently expanding into application development and cybersecurity management.
+Performance IQ was founded by Siphesihle Johnson — a systems enablement and operations specialist with experience building knowledge infrastructure, enabling teams through technology, and managing applications at scale. Siphesihle has held senior operations and enablement roles at AnyVan and Capita, built digital enablement platforms for 200+ team members, and is the founder of PaidNow, a real-time pay infrastructure platform. She is currently building AI-assisted tooling and expanding into cybersecurity management.
 
 The firm's technical depth in quality engineering, test automation, cybersecurity, and IT infrastructure is delivered by a vetted network of specialist practitioners. We are a small, specialist practice — the right person is deployed to every engagement.
 
@@ -13,7 +13,7 @@ We serve South African SMEs and remote teams worldwide. Our promise: evidence ov
 - Contact: contact@performanceiqconsulting.com
 - Website: https://www.performanceiqconsulting.com
 - Location: South Africa (remote worldwide)
-- Founder: Siphesihle Johnson — L&D Executive, Operations Leader, Tech Founder
+- Founder: Siphesihle Johnson — Systems Enablement Specialist, Operations Leader, Tech Founder
 
 ## Services
 
@@ -29,8 +29,8 @@ Vulnerability assessments, penetration testing, and security reviews that surfac
 ### IT & Infrastructure
 Practical IT support, system setup, infrastructure reviews, and procurement guidance for growing businesses and lean teams. Available as ongoing managed support or once-off engagements. We also upskill internal staff to handle day-to-day IT independently.
 
-### Skills Development & Training
-SDF-aligned learning and development covering all our service areas: QA, test automation, IT infrastructure, and cybersecurity awareness. Deliverables include training programmes, workshops, SDF documentation, and learnership support. SETA-aligned delivery available, supporting B-BBEE obligations for South African organisations.
+### Systems Enablement & Training
+Platform adoption, application training, and technical education that closes the gap between the tools teams have and the capability to use them well. Deliverables include enablement programmes, platform training, application onboarding, knowledge infrastructure, and SDF documentation. SETA-aligned delivery available, supporting B-BBEE obligations for South African organisations.
 
 ## Engagement Model
 
