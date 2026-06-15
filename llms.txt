@@ -4,14 +4,16 @@
 
 ## About
 
-Performance IQ was founded by Siphesihle Johnson, a specialist with over 10 years of experience across IT, quality assurance, software engineering, and learning & development. We are a small, specialist practice. Every engagement is led by a senior practitioner and we deploy the right person for the work.
+Performance IQ was founded by Siphesihle Johnson — an operations and learning & development leader with experience spanning workforce enablement, training systems, instructional design, LMS management, and skills development strategy. Siphesihle has held senior L&D and operations roles at AnyVan and Capita, led the development of digital learning ecosystems for 200+ team members, and is also the founder of PaidNow, a real-time pay infrastructure platform. She is currently expanding into application development and cybersecurity management.
+
+The firm's technical depth in quality engineering, test automation, cybersecurity, and IT infrastructure is delivered by a vetted network of specialist practitioners. We are a small, specialist practice — the right person is deployed to every engagement.
 
 We serve South African SMEs and remote teams worldwide. Our promise: evidence over opinion, and clients leave every engagement more capable than when they started.
 
 - Contact: contact@performanceiqconsulting.com
 - Website: https://www.performanceiqconsulting.com
 - Location: South Africa (remote worldwide)
-- Founder: Siphesihle Johnson, Principal Consultant
+- Founder: Siphesihle Johnson — L&D Executive, Operations Leader, Tech Founder
 
 ## Services
 
@@ -57,7 +59,7 @@ Q: Do you only deliver services or do you also train teams?
 A: Both. Whether a client needs the work delivered or their people trained to own it, Performance IQ offers both. We can execute the engagement and train the team to sustain the capability after we leave.
 
 Q: Who founded Performance IQ?
-A: Siphesihle Johnson, a quality engineering specialist with over 10 years of experience in IT, QA, software engineering, and learning & development.
+A: Siphesihle Johnson, an operations and learning & development leader with experience at AnyVan and Capita, and also the founder of PaidNow. She is expanding into application development and cybersecurity management.
 
 Q: Where is Performance IQ based?
 A: South Africa, with the ability to serve remote clients globally.
