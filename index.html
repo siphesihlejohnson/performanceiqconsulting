@@ -21,27 +21,157 @@
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "ProfessionalService",
-  "name": "Performance IQ",
-  "url": "https://www.performanceiqconsulting.com",
-  "email": "contact@performanceiqconsulting.com",
-  "description": "Boutique quality engineering consultancy offering test automation, cybersecurity assessments, IT support, and skills development.",
-  "founder": {
-    "@type": "Person",
-    "name": "Siphesihle Johnson"
-  },
-  "areaServed": [
-    { "@type": "Country", "name": "South Africa" },
-    { "@type": "AdministrativeArea", "name": "Worldwide Remote" }
-  ],
-  "serviceType": [
-    "Quality Engineering",
-    "Test Automation",
-    "Cybersecurity Assessments",
-    "Penetration Testing",
-    "IT Support",
-    "Skills Development",
-    "Learning and Development"
+  "@graph": [
+    {
+      "@type": ["ProfessionalService", "LocalBusiness"],
+      "@id": "https://www.performanceiqconsulting.com/#organization",
+      "name": "Performance IQ",
+      "url": "https://www.performanceiqconsulting.com",
+      "email": "contact@performanceiqconsulting.com",
+      "description": "Boutique quality engineering consultancy specialising in test automation, cybersecurity assessments, IT infrastructure, and skills development. Based in South Africa, serving remote teams worldwide.",
+      "slogan": "Quality, measured.",
+      "founder": {
+        "@type": "Person",
+        "name": "Siphesihle Johnson",
+        "jobTitle": "Principal Consultant",
+        "knowsAbout": [
+          "Quality Engineering", "Test Automation", "QA Strategy", "Software Testing",
+          "Selenium", "Playwright", "Cypress", "Appium", "REST Assured", "CI/CD",
+          "Cybersecurity", "Penetration Testing", "Vulnerability Assessment",
+          "IT Infrastructure", "Skills Development", "Learning and Development",
+          "SETA", "B-BBEE", "SDF"
+        ]
+      },
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "ZA"
+      },
+      "areaServed": [
+        { "@type": "Country", "name": "South Africa" },
+        { "@type": "AdministrativeArea", "name": "Worldwide Remote" }
+      ],
+      "knowsAbout": [
+        "Quality Engineering", "Test Automation", "Selenium", "Playwright", "Cypress",
+        "Appium", "REST Assured", "CI/CD Pipelines", "Cybersecurity",
+        "Penetration Testing", "Vulnerability Assessments", "IT Infrastructure",
+        "Skills Development", "Learning and Development", "SETA", "B-BBEE", "SDF"
+      ],
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Performance IQ Services",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Quality Engineering & QA",
+              "description": "End-to-end test strategy, manual and exploratory testing, and release confidence. Deliverables: test plans, defect analysis, coverage reports, release sign-off. Available as embedded QA, project-based, or advisory. Includes optional team upskilling."
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Test Automation",
+              "description": "Maintainable automation frameworks and CI/CD pipelines using Selenium, Playwright, Cypress, Appium, and REST Assured. Greenfield builds, legacy framework rescue, and framework audits. Includes optional engineer training."
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Cybersecurity Assessments",
+              "description": "Vulnerability assessments, penetration testing, and security reviews. Deliverables: vulnerability reports, pen test reports, remediation roadmaps, executive summaries. Once-off or recurring. Includes optional cybersecurity awareness training."
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "IT & Infrastructure",
+              "description": "IT support, system setup, infrastructure reviews, and procurement guidance for SMEs and growing teams. Available as ongoing managed support or once-off engagements. Includes optional internal staff upskilling."
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Skills Development & Training",
+              "description": "SDF-aligned learning and development covering QA, test automation, IT, and cybersecurity awareness. SETA-aligned delivery. Supports B-BBEE obligations for South African organisations."
+            }
+          }
+        ]
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What does Performance IQ do?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Performance IQ is a boutique consulting firm specialising in quality engineering, test automation, cybersecurity assessments, IT infrastructure, and skills development. We serve South African businesses and remote teams worldwide."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do you only deliver services or do you also train teams?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Both. Whether you need the work delivered or your team upskilled to own it, Performance IQ offers both. We can execute the engagement and train your people to sustain the capability after we leave."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Who founded Performance IQ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Performance IQ was founded by Siphesihle Johnson, a quality engineering specialist with over 10 years of experience in IT, QA, software engineering, and learning & development."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Where is Performance IQ based?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Performance IQ is based in South Africa and serves remote clients globally across all service areas."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What test automation tools does Performance IQ work with?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Performance IQ works with Selenium, Playwright, Cypress, Appium, REST Assured, and custom tooling depending on the client's stack and requirements."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Does Performance IQ offer SETA-aligned training?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. Performance IQ offers SDF-aligned skills development and SETA-aligned training delivery, supporting B-BBEE obligations for South African organisations."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Does Performance IQ do penetration testing?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. Penetration testing is part of our Cybersecurity Assessments service, alongside vulnerability assessments, security reviews, and remediation roadmaps."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How do I contact Performance IQ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Email contact@performanceiqconsulting.com or visit https://www.performanceiqconsulting.com to book a no-pressure consult."
+          }
+        }
+      ]
+    }
   ]
 }
 </script>
@@ -241,6 +371,21 @@
       <div class="svc" data-svc="cyber" onclick="openSvcTerminal('cyber')" role="button" tabindex="0" aria-label="View Cybersecurity Assessments details"><div class="ix">05</div><h3>Cybersecurity Assessments</h3><p>Vulnerability assessments, penetration testing, and security reviews that surface real risk before it becomes a real incident.</p><div class="tags"><span>Pentesting</span><span>Vulnerability</span><span>Risk Review</span></div></div>
       <div class="svc" style="display:flex;flex-direction:column;justify-content:center;background:var(--violet-050)"><div class="ix">→</div><h3>Not sure where to start?</h3><p>Tell us the problem. We'll be honest about whether we're the right fit.</p><a class="btn btn-primary" href="#contact" style="margin-top:18px;align-self:flex-start">Get in touch</a></div>
     </div>
+
+    <noscript>
+      <div style="margin-top:32px;font-size:14px;line-height:1.8;color:var(--ink-700)">
+        <h3>Quality Engineering &amp; QA</h3>
+        <p>End-to-end test strategy, manual and exploratory testing, and release confidence. Deliverables: test plans, defect analysis, coverage reports, release sign-off. Engagement types: embedded QA, project-based, advisory. We also train teams to own quality themselves.</p>
+        <h3>Test Automation</h3>
+        <p>Maintainable automation frameworks and CI/CD pipelines. Stack: Selenium, Playwright, Cypress, Appium, REST Assured, custom tooling. Build, rescue, or audit frameworks. We train engineers to write and maintain their own tests.</p>
+        <h3>Cybersecurity Assessments</h3>
+        <p>Vulnerability assessments, penetration testing, and security reviews. Deliverables: vulnerability reports, penetration test reports, remediation roadmaps, executive summaries. Once-off or recurring. Cybersecurity awareness training also available.</p>
+        <h3>IT &amp; Infrastructure</h3>
+        <p>IT support, system setup, infrastructure reviews, and procurement guidance. Ongoing managed support or once-off engagements. We upskill internal staff to handle day-to-day IT independently.</p>
+        <h3>Skills Development &amp; Training</h3>
+        <p>SDF-aligned learning and development. Covers QA, test automation, IT infrastructure, and cybersecurity awareness. SETA-aligned delivery supporting B-BBEE obligations for South African organisations.</p>
+      </div>
+    </noscript>
 
     <div class="svc-terminal" id="svcTerminal" aria-hidden="true" aria-live="polite">
       <div class="ct-bar">

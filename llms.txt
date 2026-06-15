@@ -1,0 +1,78 @@
+# Performance IQ
+
+> Boutique quality engineering consultancy based in South Africa, serving local and global remote clients. We deliver senior-level quality engineering, test automation, cybersecurity assessments, IT infrastructure support, and skills development — and we train clients to own these capabilities themselves.
+
+## About
+
+Performance IQ was founded by Siphesihle Johnson, a specialist with over 10 years of experience across IT, quality assurance, software engineering, and learning & development. We are a small, specialist practice. Every engagement is led by a senior practitioner and we deploy the right person for the work.
+
+We serve South African SMEs and remote teams worldwide. Our promise: evidence over opinion, and clients leave every engagement more capable than when they started.
+
+- Contact: contact@performanceiqconsulting.com
+- Website: https://www.performanceiqconsulting.com
+- Location: South Africa (remote worldwide)
+- Founder: Siphesihle Johnson, Principal Consultant
+
+## Services
+
+### Quality Engineering & QA
+End-to-end test strategy, manual and exploratory testing, and release confidence that lets teams ship without second-guessing. Deliverables include test plans, defect analysis, coverage reports, and release sign-off. Available as embedded QA, project-based, or advisory. We also train teams to own quality themselves — processes, tools, and mindset.
+
+### Test Automation
+Maintainable automation frameworks and CI/CD pipelines that catch issues before users do. We build, rescue, or audit automation frameworks. Technology stack includes Selenium, Playwright, Cypress, Appium, REST Assured, and custom tooling. We also train engineering teams to write and maintain their own tests, reducing dependency on external QA.
+
+### Cybersecurity Assessments
+Vulnerability assessments, penetration testing, and security reviews that surface real risk before it becomes a real incident. Deliverables include vulnerability reports, penetration test reports, remediation roadmaps, and executive summaries. Available as once-off assessments, recurring reviews, or pre-launch security audits. We also run cybersecurity awareness training so client teams become part of the defence.
+
+### IT & Infrastructure
+Practical IT support, system setup, infrastructure reviews, and procurement guidance for growing businesses and lean teams. Available as ongoing managed support or once-off engagements. We also upskill internal staff to handle day-to-day IT independently.
+
+### Skills Development & Training
+SDF-aligned learning and development covering all our service areas: QA, test automation, IT infrastructure, and cybersecurity awareness. Deliverables include training programmes, workshops, SDF documentation, and learnership support. SETA-aligned delivery available, supporting B-BBEE obligations for South African organisations.
+
+## Engagement Model
+
+Performance IQ follows a four-phase engagement model:
+
+1. Assess — Understand the system, the risk, and what good looks like for the client.
+2. Measure — Baseline quality with real data: coverage, defects, bottlenecks.
+3. Improve — Automate, fix, and build pipelines that hold the line.
+4. Enable — Hand over the capability so the client's team keeps the gains.
+
+## Key Differentiators
+
+- Specialist-led engagements: the right practitioner is deployed to each job
+- Dual offering: whether clients need work delivered or their team trained to own it, we do both
+- Senior quality without agency overhead — no junior handoff
+- South Africa-based with full remote capability worldwide
+- SDF-aligned skills development supporting B-BBEE and SETA requirements
+- Services span quality engineering, cybersecurity, IT, and learning & development under one firm
+
+## Frequently Asked Questions
+
+Q: What does Performance IQ do?
+A: Performance IQ is a boutique consulting firm specialising in quality engineering, test automation, cybersecurity assessments, IT infrastructure support, and skills development. We serve South African businesses and remote teams worldwide.
+
+Q: Do you only deliver services or do you also train teams?
+A: Both. Whether a client needs the work delivered or their people trained to own it, Performance IQ offers both. We can execute the engagement and train the team to sustain the capability after we leave.
+
+Q: Who founded Performance IQ?
+A: Siphesihle Johnson, a quality engineering specialist with over 10 years of experience in IT, QA, software engineering, and learning & development.
+
+Q: Where is Performance IQ based?
+A: South Africa, with the ability to serve remote clients globally.
+
+Q: What test automation tools does Performance IQ work with?
+A: Selenium, Playwright, Cypress, Appium, REST Assured, and custom tooling depending on the client's stack and requirements.
+
+Q: Does Performance IQ offer SETA-aligned training?
+A: Yes. Performance IQ offers SDF-aligned skills development and SETA-aligned training, supporting B-BBEE obligations for South African organisations.
+
+Q: How do I engage Performance IQ?
+A: Email contact@performanceiqconsulting.com or visit https://www.performanceiqconsulting.com to book a no-pressure consult.
+
+Q: Does Performance IQ do penetration testing?
+A: Yes. Penetration testing is part of our Cybersecurity Assessments service, alongside vulnerability assessments, security reviews, and remediation roadmaps.
+
+Q: Can Performance IQ work with remote teams outside South Africa?
+A: Yes. While based in South Africa, Performance IQ works with remote teams worldwide across all service areas.
