@@ -3,7 +3,7 @@
    Shared tokens, type, and primitives across all deliverables
    ============================================================ */
 
-@import url('https://fonts.googleapis.com/css2?family=Source+Serif+4:opsz,wght@8..60,400;8..60,500;8..60,600;8..60,700&family=Lato:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;700&family=Source+Serif+4:opsz,wght@8..60,400;8..60,500;8..60,600;8..60,700&family=Lato:wght@400;700&display=swap');
 
 :root {
   /* ---- Core palette ---- */
@@ -29,8 +29,8 @@
   /* ---- Type ---- */
   --piq-display: 'Source Serif 4', Georgia, 'Times New Roman', serif;
   --piq-body:    'Lato', system-ui, sans-serif;
-  --piq-mono:    'Lato', system-ui, sans-serif;
-  --piq-code:    ui-monospace, 'SF Mono', Menlo, Consolas, monospace;
+  --piq-mono:    'JetBrains Mono', ui-monospace, monospace;
+  --piq-code:    'JetBrains Mono', ui-monospace, 'SF Mono', Menlo, Consolas, monospace;
 
   /* ---- Geometry ---- */
   --r-sm: 8px;
@@ -77,7 +77,7 @@ p { margin: 0; text-wrap: pretty; }
   font-family: var(--piq-mono);
   font-size: 12px;
   font-weight: 500;
-  letter-spacing: 0.18em;
+  letter-spacing: 0.12em;
   text-transform: uppercase;
   color: var(--violet);
 }

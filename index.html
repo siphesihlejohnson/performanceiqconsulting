@@ -257,7 +257,7 @@
   .logo { display: flex; align-items: center; gap: 11px; font-family: var(--piq-display); font-weight: 600; font-size: 19px; letter-spacing: -0.03em; }
   .logo .iq { color: var(--violet); }
   .nav .menu { display: flex; gap: 30px; align-items: center; }
-  .nav .menu a { font-family: var(--piq-mono); font-size: 12px; letter-spacing: 0.05em; text-transform: uppercase; color: var(--ink-500); text-decoration: none; transition: color .15s; }
+  .nav .menu a { font-family: var(--piq-mono); font-size: 12px; letter-spacing: 0.03em; text-transform: uppercase; color: var(--ink-500); text-decoration: none; transition: color .15s; }
   .nav .menu a:hover { color: var(--violet); }
   .nav .menu a.cta { background: var(--ink); color: #fff; padding: 12px 22px; border-radius: 999px; font-family: var(--piq-mono); font-size: 14px; font-weight: 700; letter-spacing: 0.01em; text-transform: none; text-decoration: none; transition: background .18s; white-space: nowrap; }
   .nav .menu a.cta:hover { background: var(--violet); color: #fff; }
@@ -284,14 +284,14 @@
   .ct-cmd-line .ct-cmd { color: #fff; }
   .ct-spacer { height: 8px; }
   .ct-name { font-size: 18px; font-family: var(--piq-display); color: #fff; font-weight: 600; line-height: 1.3; letter-spacing: -0.01em; }
-  .ct-firm { font-size: 12px; color: var(--violet-300); letter-spacing: 0.04em; margin-bottom: 14px; display: block; }
+  .ct-firm { font-size: 12px; color: var(--violet-300); letter-spacing: 0.02em; margin-bottom: 14px; display: block; }
   .ct-row { display: grid; grid-template-columns: 130px 1fr; gap: 8px; }
-  .ct-key { font-size: 10px; letter-spacing: 0.12em; text-transform: uppercase; color: rgba(255,255,255,.35); padding-top: 1px; }
+  .ct-key { font-size: 10px; letter-spacing: 0.08em; text-transform: uppercase; color: rgba(255,255,255,.35); padding-top: 1px; }
   .ct-val { font-size: 13px; color: rgba(255,255,255,.82); }
   .ct-footer-line { margin-top: 10px; color: rgba(255,255,255,.55); }
   .ct-cursor { display: inline-block; width: 8px; height: 14px; background: var(--violet-300); vertical-align: -2px; animation: blink 1.1s steps(1) infinite; }
   @keyframes blink { 50% { opacity: 0; } }
-  @media (max-width: 480px) { .ct-row { grid-template-columns: 1fr; gap: 1px; margin-bottom: 6px; } .ct-key { font-size: 9px; letter-spacing: 0.1em; } .ct-body { padding: 18px 18px 22px; font-size: 12px; } .ct-name { font-size: 16px; } }
+  @media (max-width: 480px) { .ct-row { grid-template-columns: 1fr; gap: 1px; margin-bottom: 6px; } .ct-key { font-size: 9px; letter-spacing: 0.06em; } .ct-body { padding: 18px 18px 22px; font-size: 12px; } .ct-name { font-size: 16px; } }
   @media (max-width: 880px) { .hero-grid { grid-template-columns: 1fr; gap: 44px; } }
   @media (max-width: 768px) { .hero { padding: 64px 0 52px; } .hero p.lede { max-width: 100%; font-size: 17px; } }
   @media (max-width: 480px) { .hero { padding: 48px 0 40px; } .hero .actions { flex-direction: column; } .hero .actions .btn { width: 100%; justify-content: center; } }
@@ -310,11 +310,11 @@
   .svc-grid { display: grid; grid-template-columns: repeat(3,1fr); gap: 1px; background: var(--line); border: 1px solid var(--line); border-radius: var(--r-lg); overflow: hidden; }
   .svc { background: var(--paper); padding: 36px 30px 40px; transition: background .2s; }
   .svc:hover { background: var(--violet-050); }
-  .svc .ix { font-family: var(--piq-mono); font-size: 12px; color: var(--violet); letter-spacing: 0.1em; }
+  .svc .ix { font-family: var(--piq-mono); font-size: 12px; color: var(--violet); letter-spacing: 0.05em; }
   .svc h3 { font-size: 21px; margin: 22px 0 12px; }
   .svc p { font-size: 14.5px; color: var(--ink-500); }
   .svc .tags { display: flex; flex-wrap: wrap; gap: 7px; margin-top: 20px; }
-  .svc .tags span { font-family: var(--piq-mono); font-size: 12px; letter-spacing: 0.04em; text-transform: uppercase; color: var(--ink-500); border: 1px solid var(--line-2); border-radius: 6px; padding: 4px 9px; }
+  .svc .tags span { font-family: var(--piq-mono); font-size: 12px; letter-spacing: 0.02em; text-transform: uppercase; color: var(--ink-500); border: 1px solid var(--line-2); border-radius: 6px; padding: 4px 9px; }
   @media (max-width: 880px) { .svc-grid { grid-template-columns: 1fr; } }
   @media (max-width: 480px) { .svc { padding: 28px 20px 32px; } }
 
@@ -325,9 +325,9 @@
   .svc-term-close:hover { color: #fff; border-color: rgba(255,255,255,.4); }
   .svc-term-body { padding: 32px 36px 40px; font-family: var(--piq-code); font-size: 13px; line-height: 1.9; }
   .svc-term-title { font-size: 20px; font-family: var(--piq-display); color: #fff; font-weight: 600; line-height: 1.3; letter-spacing: -0.01em; }
-  .svc-term-label { font-size: 12px; color: var(--violet-300); letter-spacing: 0.04em; margin-bottom: 20px; display: block; }
+  .svc-term-label { font-size: 12px; color: var(--violet-300); letter-spacing: 0.02em; margin-bottom: 20px; display: block; }
   .svc-term-row { display: grid; grid-template-columns: 160px 1fr; gap: 10px; margin-bottom: 4px; }
-  .svc-term-key { font-size: 10px; letter-spacing: 0.12em; text-transform: uppercase; color: rgba(255,255,255,.35); padding-top: 2px; }
+  .svc-term-key { font-size: 10px; letter-spacing: 0.08em; text-transform: uppercase; color: rgba(255,255,255,.35); padding-top: 2px; }
   .svc-term-val { font-size: 13px; color: rgba(255,255,255,.82); }
   .svc[data-svc] { cursor: pointer; }
   @media (max-width: 600px) { .svc-term-row { grid-template-columns: 1fr; gap: 2px; margin-bottom: 10px; } .svc-term-body { padding: 22px 22px 30px; } }
@@ -335,7 +335,7 @@
   /* process */
   .proc-grid { display: grid; grid-template-columns: repeat(4,1fr); gap: 26px; }
   .step { border-top: 2px solid var(--violet); padding-top: 22px; }
-  .step .sn { font-family: var(--piq-mono); font-size: 12px; color: var(--violet); letter-spacing: 0.08em; }
+  .step .sn { font-family: var(--piq-mono); font-size: 12px; color: var(--violet); letter-spacing: 0.04em; }
   .step h4 { font-size: 19px; margin: 14px 0 8px; }
   .step p { font-size: 14px; color: var(--ink-500); }
   @media (max-width: 880px) { .proc-grid { grid-template-columns: 1fr 1fr; gap: 30px; } }
