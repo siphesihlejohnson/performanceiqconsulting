@@ -6,8 +6,8 @@ Official website for **Performance IQ Consulting** - quality engineering, test a
 
 Founder-led consulting by Siphesihle Johnson, for South African businesses and global teams.
 
-- **Live site:** https://siphesihlejohnson.github.io/performance-iq-brand/
-- **Contact:** performanceiqconsulting@gmail.com
+- **Live site:** https://www.performanceiqconsulting.com/
+- **Contact:** contact@performanceiqconsulting.com
 
 ---
 

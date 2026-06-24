@@ -1,24 +1,24 @@
 # Performance IQ
 
-> Boutique quality engineering consultancy based in South Africa, serving local and global remote clients. We deliver senior-level quality engineering, test automation, cybersecurity assessments, IT infrastructure support, and skills development — and we train clients to own these capabilities themselves.
+> Boutique quality engineering consultancy based in South Africa, serving local and global remote clients. We deliver senior-level quality engineering, test automation, cybersecurity assessments, IT infrastructure support, and skills development, and we train clients to own these capabilities themselves.
 
 ## About
 
-Performance IQ was founded by Siphesihle Johnson — a systems enablement and operations specialist with experience building knowledge infrastructure, enabling teams through technology, and managing applications at scale. Siphesihle has held senior operations and enablement roles at AnyVan and Capita, built digital enablement platforms for 200+ team members, and is the founder of PaidNow, a real-time pay infrastructure platform. She is currently building AI-assisted tooling and expanding into cybersecurity management.
+Performance IQ was founded by Siphesihle Johnson, a systems enablement and operations specialist with experience building knowledge infrastructure, enabling teams through technology, and managing applications at scale. Siphesihle has held senior operations and enablement roles at AnyVan and Capita, built digital enablement platforms for 200+ team members, and is the founder of PaidNow, a real-time pay infrastructure platform. She is currently building AI-assisted tooling and expanding into cybersecurity management.
 
-The firm's technical depth in quality engineering, test automation, cybersecurity, and IT infrastructure is delivered by a vetted network of specialist practitioners. We are a small, specialist practice — the right person is deployed to every engagement.
+The firm's technical depth in quality engineering, test automation, cybersecurity, and IT infrastructure is delivered by a vetted network of specialist practitioners. We are a small, specialist practice; the right person is deployed to every engagement.
 
 We serve South African SMEs and remote teams worldwide. Our promise: evidence over opinion, and clients leave every engagement more capable than when they started.
 
 - Contact: contact@performanceiqconsulting.com
 - Website: https://www.performanceiqconsulting.com
 - Location: South Africa (remote worldwide)
-- Founder: Siphesihle Johnson — Systems Enablement Specialist, Operations Leader, Tech Founder
+- Founder: Siphesihle Johnson, Systems Enablement Specialist, Operations Leader, Tech Founder
 
 ## Services
 
 ### Quality Engineering & QA
-End-to-end test strategy, manual and exploratory testing, and release confidence that lets teams ship without second-guessing. Deliverables include test plans, defect analysis, coverage reports, and release sign-off. Available as embedded QA, project-based, or advisory. We also train teams to own quality themselves — processes, tools, and mindset.
+End-to-end test strategy, manual and exploratory testing, and release confidence that lets teams ship without second-guessing. Deliverables include test plans, defect analysis, coverage reports, and release sign-off. Available as embedded QA, project-based, or advisory. We also train teams to own quality themselves: processes, tools, and mindset.
 
 ### Test Automation
 Maintainable automation frameworks and CI/CD pipelines that catch issues before users do. We build, rescue, or audit automation frameworks. Technology stack includes Selenium, Playwright, Cypress, Appium, REST Assured, and custom tooling. We also train engineering teams to write and maintain their own tests, reducing dependency on external QA.
@@ -36,16 +36,16 @@ Platform adoption, application training, and technical education that closes the
 
 Performance IQ follows a four-phase engagement model:
 
-1. Assess — Understand the system, the risk, and what good looks like for the client.
-2. Measure — Baseline quality with real data: coverage, defects, bottlenecks.
-3. Improve — Automate, fix, and build pipelines that hold the line.
-4. Enable — Hand over the capability so the client's team keeps the gains.
+1. Assess: Understand the system, the risk, and what good looks like for the client.
+2. Measure: Baseline quality with real data: coverage, defects, bottlenecks.
+3. Improve: Automate, fix, and build pipelines that hold the line.
+4. Enable: Hand over the capability so the client's team keeps the gains.
 
 ## Key Differentiators
 
 - Specialist-led engagements: the right practitioner is deployed to each job
 - Dual offering: whether clients need work delivered or their team trained to own it, we do both
-- Senior quality without agency overhead — no junior handoff
+- Senior quality without agency overhead; no junior handoff
 - South Africa-based with full remote capability worldwide
 - SDF-aligned skills development supporting B-BBEE and SETA requirements
 - Services span quality engineering, cybersecurity, IT, and learning & development under one firm
